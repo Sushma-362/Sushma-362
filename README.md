@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+This is my personal repository.
+- Pronouns : She/Her
+- I'm currently a student from Northwest missouri state univeristy pursuing masters in Applied computer science.
+- I have two years of experience working as a developer with a focus on XML.
+- I'm currently learning web applications and object oriented programming language.
 <!--
 **Sushma-362/Sushma-362** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
